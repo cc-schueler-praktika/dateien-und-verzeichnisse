@@ -10,6 +10,4 @@ __Ziel:__
 
 - Verständnis von Dateistrukturen
 - Unterschiede von Dateipfaden (absolut vs. relativ)
-- Navigation durch Dateistrukturen
-- Erstellen, Bearbeiten und Löschen von Dateien
-- Betrachten, Verschieben von Dateien
+- Eigenschaften von Dateien
