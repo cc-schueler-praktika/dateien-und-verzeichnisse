@@ -8,11 +8,11 @@ Ein *Verzeichnis* beinhaltet eine Menge von Dateien.
 Dateien und Verzeichnisse befinden sich unter Linux in einer *baumartigen Struktur*. Das Verzeichnis der höchsten Ebene wird *Rootverzeichnis* genannt. Dargestellt wird es meisten durch `/`. Alle anderen Verzeichnisse in Linux sind über das Rootverzeichnis zugreifbar und in einer hierarchischen Struktur angeordnet.
 
 ```
-/bin						# wichtige Programme die immer verfügbar sein müssen
-/etc						# Konfigurationsdateien
-/home						# darunter liegen Benutzerverzeichnisse
-/home/testuser 	# Benutzerverzeichnis für den Benutzer "testuser"
-/media					# Verzeichnisse von Speichermedien (USB-Stick, Festplatten, ...)
+/bin            # wichtige Programme die immer verfügbar sein müssen
+/etc            # Konfigurationsdateien
+/home           # darunter liegen Benutzerverzeichnisse
+/home/testuser  # Benutzerverzeichnis für den Benutzer "testuser"
+/media          # Verzeichnisse von Speichermedien (USB-Stick, Festplatten, ...)
 ...
 ```
 
